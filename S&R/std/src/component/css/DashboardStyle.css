@@ -1,0 +1,9 @@
+/* .icon :hover::after{
+    content: "edit";
+    position: absolute;
+} */
+.pos{
+    margin: 0;
+    float: left;
+    padding-right: 5px;
+  }
